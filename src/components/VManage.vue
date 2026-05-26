@@ -1,5 +1,5 @@
 <script setup>
-// import Swiper and modules styles
+// import Swiper and modules styles 123
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
